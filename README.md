@@ -1,3 +1,4 @@
+![logo](https://github.com/ShubhamYadav369/ShubhamYadav369/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shubham Yadav</h1>
 <h3 align="center">Uncovering Insights, Driving Decisions, Data Scientist & Analyst</h3>
 
